@@ -1,0 +1,10 @@
+body {background-color: #F6E6CF;margin:  25px;}
+h1 {text-align: center;font-family:"Times New Roman";color:#231709 }
+h2 {text-align: center;font-style: italic;}
+ul{text-transform: capitalize}
+p {font-style:  italic;}
+ol{font-weight: bold;}
+body {background-color:  #65350F; background-image:  linear-gradient(to bottom, #9A7B4F, #65350F);
+	  background-repeat:  no-repeat;}
+
+#Brownies {float:  right; height:100px }

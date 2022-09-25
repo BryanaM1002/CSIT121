@@ -1,0 +1,5 @@
+#Pomeranian { border: 2px ridge #330000; border-radius: 5px;}
+body {background-color: #DA0000;
+        background-image: linear-gradient(to bottom, #FFFFFF, #DA0000);
+     	background-repeat: no-repeat; }
+#Bread { box-shadow: 5px 5px 5px #1E1E1E; }
